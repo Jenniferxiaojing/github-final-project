@@ -21,7 +21,4 @@
    echo "The simple interest is: "
    echo $s
 
-Copied!
-
-Wrap Toggled!
 
